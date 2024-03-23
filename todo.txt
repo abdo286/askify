@@ -1,0 +1,1 @@
+1. in the reducer, generate the filteredQuestions every time and aslo add a property called filtered to allow flexiblity in the filters 
