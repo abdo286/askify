@@ -13,4 +13,5 @@ Ask questions, receive anonymous answers and comments, and filter by categories.
 
 ## Technologies Used
 - Next.js
+- TypeScript
 - Tailwind CSS
